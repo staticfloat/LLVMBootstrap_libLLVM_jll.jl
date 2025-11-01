@@ -5,27 +5,27 @@ libc = "glibc"
 os = "linux"
 
     [[LLVMBootstrap_libLLVM.download]]
-    sha256 = "48fcbd0816ec8ef1f87e6dd9f108b4ee50f054441d7dc8a5c08403d4b22b96fe"
+    sha256 = "154bc232a5306d0990064cf626c1fc1077b827bbab760599ba69f5b50b34e16d"
     url = "https://github.com/staticfloat/LLVMBootstrap_libLLVM_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_libLLVM-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMBootstrap_libLLVM-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "af4f245babf98faf73e4f117e5641fcbb00f1ef3"
+git-tree-sha1 = "e60575fb11ab5b2fb58bc5939af7c15654a46f8f"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[LLVMBootstrap_libLLVM-build_log.download]]
-    sha256 = "e415e8640356e79ecadb1781f69187b4914261ed9e08d1112d6cfe62d19fa4e8"
+    sha256 = "9780b610ae5edcd2a4a227bde1de8b70a5bcfdd85493d8161a652341b0105ff6"
     url = "https://github.com/staticfloat/LLVMBootstrap_libLLVM_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_libLLVM-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
 
 [[LLVMBootstrap_libLLVM-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "7e1398557ac03cfb964add1c818584beab17846f"
+git-tree-sha1 = "34b02df99155900dbac6f08b0d7030393ff7e257"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[LLVMBootstrap_libLLVM-extract_log.download]]
-    sha256 = "73af83cf718b8ac879f57054a369b533f1082aacfd241b3a55d7def1d3c73acd"
+    sha256 = "0f51cd494ec1ac33576642ab5e3a1fc2234b5eaf45ac0c905b346e9428e474ba"
     url = "https://github.com/staticfloat/LLVMBootstrap_libLLVM_jll.jl/releases/download/v17.0.0-GCCBootstrap-x86_64-linux-gnu/LLVMBootstrap_libLLVM-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
